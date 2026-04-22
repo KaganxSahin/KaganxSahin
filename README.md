@@ -1,5 +1,5 @@
-<h2 align="center">💻</h2>
+<h2 align="center"></h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/KaganxSahin/KaganxSahin/main/github-metrics.svg" alt="Dil Dağılımı" width="600" />
+  <img src="https://raw.githubusercontent.com/KaganxSahin/KaganxSahin/main/github-metrics.svg" alt="Dil Dağılımı" width="700" />
 </div>
